@@ -45,4 +45,4 @@ I am continuously expanding my expertise and have a keen interest in **Artificia
 </div>  
 [![Abu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbuHuraira)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuHuraira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuHuraira125)](https://github.com/anuraghazra/github-readme-stats)
