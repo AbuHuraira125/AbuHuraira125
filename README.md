@@ -2,47 +2,81 @@
 
 # Hi, I'm Abu Huraira
 
-I'm a passionate, motivated, and highly organized **ASP.NET Core Full Stack Developer** with **Angular experience**. I am self-driven, reliable, and committed to building **scalable, maintainable, and high-performance web applications and APIs**. I focus on writing **clean, modular, and efficient code** while ensuring cost-effective and result-oriented solutions.
+I am a passionate and highly motivated **.NET Developer** with over **3 years of experience** in building and maintaining complex web applications across both the **.NET Framework** and **modern .NET (Core)**. Currently, I am delivering scalable, secure, and testable **ASP.NET Core solutions** and **RESTful APIs** at a **reputable software company**. I am committed to writing **clean, modular, and efficient code** while following best practices in software architecture and design.
 
-## **Technical Skills**
+## **Core Skills**
 
 ### **Programming Languages:**
 - C#
+- C/C++
 - JavaScript
-- TypeScript
+
+### **Frontend Technologies:**
+- **Angular**
+- **JavaScript**
+- **jQuery**
 - HTML5
 - CSS3
-
-### **Frameworks & Technologies:**
-- **ASP.NET Core**
-- **Angular**
-- Entity Framework Core
 - Bootstrap
-- RESTful APIs
+
+### **Web & APIs:**
+- **ASP.NET Core**
+- **.NET Web APIs**
+- JSON
+
+### **Frameworks & Runtimes:**
+- **.NET Framework**
+- **.NET Core**
+- ASP.NET Boilerplate (ABP)
+- Microsoft boilerplate templates
+
+### **Architectures & Patterns:**
+- Clean Architecture
+- Layered Architecture
+- Repository & Unit of Work
+- CQRS (basics)
+- Modular Monoliths/Microservices (fundamentals)
+
+### **Data & Persistence:**
+- **Entity Framework (EF) / EF Core**
+- Dapper (micro-ORM)
+- ADO.NET (raw SQL, stored procedures, transactions)
+- LINQ
 
 ### **Databases:**
 - SQL Server
 - MySQL
-- PostgreSQL
+- SQL Server Management Studio
 
-### **Tools & Platforms:**
-- Git/GitHub
-- Azure DevOps
+### **Cloud & DevOps:**
 - Docker
-- Postman
+- Microsoft Azure (app deployment, configuration, monitoring)
+- CI/CD fundamentals
+
+### **Version Control & Tools:**
+- Git/GitHub
+- Visual Studio
+- VS Code
+
+### **Project & Collaboration:**
+- Jira
+- Asana
+- Agile/Scrum
+
+## **Notable Achievements**
+- Secured **3rd place** in the **Visio Spark** speed programming competition, representing my university among **64 candidates** from **32 universities** across Pakistan.
 
 ## **Education**
 **Bachelor’s in Computer Science** – Completed in 2022
 
-I am continuously expanding my expertise and have a keen interest in **Artificial Intelligence, Machine Learning, and Quantum Computing**. My learning approach is built on patience, dedication, and continuous improvement.
+I am continually expanding my expertise and have a strong focus on **clean code**, **efficient web solutions**, and **modern frontend technologies** like **Angular** and **JavaScript**.
 
 ## **Check My Portfolio**
 
-<div align="center">  
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abu-huraira}/count.svg" /></p>  
-<br>  
-</div>  
+**Visitors Count**
+
+![Visitors Badge](https://profile-counter.glitch.me/{abu-huraira}/count.svg)
+
 [![Abu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbuHuraira)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbuHuraira125)](https://github.com/anuraghazra/github-readme-stats)
