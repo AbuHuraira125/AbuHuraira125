@@ -75,7 +75,6 @@ I am continually expanding my expertise and have a strong focus on **clean code*
 
 **Visitors Count**
 
-![Visitors Badge](https://profile-counter.glitch.me/{abu-huraira}/count.svg)
 
 [![Abu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbuHuraira)](https://github.com/anuraghazra/github-readme-stats)  
 
